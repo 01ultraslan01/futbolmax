@@ -1,4 +1,110 @@
+#EXTM3U
 
+############################
+# 🇹🇷 TÜRKİYE ULUSAL
+############################
+
+#EXTINF:-1 group-title="TR ULUSAL",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="TR ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="TR ULUSAL",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="TR ULUSAL",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="TR ULUSAL",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="TR ULUSAL",A Haber
+https://trkvz-live.ercdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1 group-title="TR ULUSAL",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+############################
+# ⚽ SPOR
+############################
+
+#EXTINF:-1 group-title="SPOR",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="SPOR",TRT Spor Yıldız
+https://tv-trtsporyildiz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="SPOR",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 group-title="SPOR",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+############################
+# 🎵 MÜZİK
+############################
+
+#EXTINF:-1 group-title="MUZIK",Power HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUZIK",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="MUZIK",NRJ Hits
+https://nrjlive.akamaized.net/hls/live/2038375/nrjhits/master.m3u8
+
+############################
+# 👶 ÇOCUK
+############################
+
+#EXTINF:-1 group-title="COCUK",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="COCUK",Cartoon Network (INT)
+https://fl3.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+############################
+# 📚 BELGESEL
+############################
+
+#EXTINF:-1 group-title="BELGESEL",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="BELGESEL",NASA TV
+https://ntv1-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+############################
+# 🌍 HABER WORLD
+############################
+
+#EXTINF:-1 group-title="WORLD NEWS",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLD NEWS",BBC News
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 group-title="WORLD NEWS",France 24
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="WORLD NEWS",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+############################
+# 🎬 FİLM / DEMO VOD
+############################
+
+#EXTINF:-1 group-title="FILM",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="FILM",Sintel
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="FILM",Tears Of Steel
+https://test-streams.mux.dev/tears-of-steel/playlist.m3u8
+
+#EXTINF:-1 group-title="FILM",Elephants Dream
+https://test-streams.mux.dev/elephants/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.tv/poster/film/m3gan-20-71167.webp" tvg-year="2025"  group-title="Aksiyon, Bilim Kurgu, Gerilim",M3GAN 2.0 
 https://s21.seeshare.pics/me/GGAUDH4hZv4jYwVjZwHhI0IPYHEZYwRjBQOjYxEIDHjhFP4lAwDgFREAd0zxp2Iyp2uupzHhpTywpjs0xi21vr1.m3u8
 
