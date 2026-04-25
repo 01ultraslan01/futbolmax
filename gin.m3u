@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="SPOR KANALLAR",BEiN Sports 1 -A-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 1 -A-
 https://api.codetabs.com/v1/proxy/?quest=https://dga1op10s1u3leo.cae7899f574623.click/live/xbeinsports-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 1 -B-
 https://api.codetabs.com/v1/proxy/?quest=https://andro.evrenosoglu59.lat/checklist/batutest.m3u8
@@ -56,6 +56,8 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
 https://one.caec6083d6b01cf5.click/live/sbeinsports-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 5 -D-
 https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
+
+
 
 #EXTINF:-0 tvg-logo="../img/logo/beinsports5.png",beinsports5
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
