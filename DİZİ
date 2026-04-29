@@ -1,6 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/makayla-nin-dunyasi-harflerin-dili-makayla-s-voice-a-letter-to-the-world-79637.jpg",  Harflerin Dili
-https://s12.pixtureup.org/mb/GJSeLKyfLKZhIz9cL2HhDF5ZMKE0MKVhqT8hqTuyYyqipzkxYwVjZwDhI0IPYHEZYwRjBQOjYxEIDHjd0zxpTy4qUIlMKIjYz9lMjs0xi12vr1.m3u8
+
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E01
+https://storage.diziyou.one/episodes/24001_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E02
+https://storage.diziyou.one/episodes/24002_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E03
+https://storage.diziyou.one/episodes/24003_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E04
+https://storage.diziyou.one/episodes/24004_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E05
+https://storage.diziyou.one/episodes/24005_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E06
+https://storage.diziyou.one/episodes/24006_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E07
+https://storage.diziyou.one/episodes/24007_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E08
+https://storage.diziyou.one/episodes/24008_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E09
+https://storage.diziyou.one/episodes/24009_tr/play.m3u8
+#EXTINF:-1 tvg-id="dizi_id" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-crown.jpg" tvg-series="Dizi Adı" tvg-season="1" tvg-episode="1" group-title="Diziler",The Crown  - S01E10
+https://storage.diziyou.one/episodes/24010_tr/play.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/makayla-nin-dunyasi-harflerin-dili-makayla-s-voice-a-letter-to-the-world-79637.jpg",   The Crown
+https://storage.diziyou.one/episodes/24001_tr/play.m3u8
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/kabin-bagaji-carry-on-51265.jpg", Kabin Bagajı
 https://s16.photogrids.site/mk/D2SlpaxgG24hZwNlAP5KEHVgERjhZGN4ZUNhESIOGNd0zxpTuiqT9apzyxpl5mnKEys0xi16vr1.m3u8
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/fullhd-tatil-fiyaskosu-disaster-holiday.jpg", Tatil Fiyaskosu
