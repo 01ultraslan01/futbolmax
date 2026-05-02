@@ -1,77 +1,37 @@
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 1 -A-
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 1
 https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 1 -B-
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 1 (PROXY)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.evrenosoglu59.lat/checklist/batutest.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 1 -C- (TR)
-https://api.codetabs.com/v1/proxy/?quest=https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 1 -D-
-https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports1.png",beinsports1
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports1.png",beinsports1
-https://raspy-forest-b1e4.aykara463.workers.dev/709.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports1.png",beinsports1
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 1 (WORKER)
 https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 2 -A-
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 2 -B-
-https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 2 -C- (TR)
-https://one.caec6083d6b01cf5.click/live/sbeinsports-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 2 -D-
-https://cdn.codenet.work/streamgo/stremgo123/4865.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports2.png",beinsports2
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports2.png",beinsports2
+
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 2
+https://corestream.ronaldovurdu.help/hls/bein-sports-2.m3u8
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 2 (WORKER)
 https://raspy-forest-b1e4.aykara463.workers.dev/702.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 3 -A-
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 3 -B-
-https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 3 -C- (TR)
-https://one.caec6083d6b01cf5.click/live/sbeinsports-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 3 -D-
-https://cdn.codenet.work/streamgo/stremgo123/4866.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports3.png",beinsports3
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports3.png",beinsports3
+
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 3
+https://corestream.ronaldovurdu.help/hls/bein-sports-3.m3u8
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 3 (WORKER)
 https://raspy-forest-b1e4.aykara463.workers.dev/703.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports4.png",beinsports4
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports4.png",beinsports4
+
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 4
+https://corestream.ronaldovurdu.help/hls/bein-sports-4.m3u8
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 4 (WORKER)
 https://raspy-forest-b1e4.aykara463.workers.dev/704.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 4 -A-
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 4 -B-
-https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 4 -C- (TR)
-https://one.caec6083d6b01cf5.click/live/sbeinsports-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 4 -D-
-https://cdn.codenet.work/streamgo/stremgo123/4867.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 5 -A-
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 5 -B-
-https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 5 -C- (TR)
-https://one.caec6083d6b01cf5.click/live/sbeinsports-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="SPOR KANALLAR",BEiN Sports 5 -D-
-https://cdn.codenet.work/streamgo/stremgo123/4868.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 5
+https://corestream.ronaldovurdu.help/hls/bein-sports-5.m3u8
 
-
-#EXTINF:-0 tvg-logo="../img/logo/beinsports5.png",beinsports5
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsports5.png",beinsports5
-https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsportsmax1.png",beinsportsmax1
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsportsmax1.png",beinsportsmax1
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS MAX 1
 https://raspy-forest-b1e4.aykara463.workers.dev/714.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsportsmax2.png",beinsportsmax2
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsportsmax2.png",beinsportsmax2
+
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS MAX 2
 https://raspy-forest-b1e4.aykara463.workers.dev/715.m3u8
-#EXTINF:-0 tvg-logo="../img/logo/beinsportshaber.png",beinsportshaber
+
+#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS HABER
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsh.m3u8
 #EXTINF:-0 tvg-logo="../img/logo/s_sport.png",s_sport
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
