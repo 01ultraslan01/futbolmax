@@ -1,87 +1,99 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 1
-https://one.caec6083d6b01cf5.click/live/sbeinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 1 (PROXY)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.evrenosoglu59.lat/checklist/batutest.m3u8
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 1 (WORKER)
-https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 2
-https://corestream.ronaldovurdu.help/hls/bein-sports-2.m3u8
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 2 (WORKER)
-https://raspy-forest-b1e4.aykara463.workers.dev/702.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 3
-https://corestream.ronaldovurdu.help/hls/bein-sports-3.m3u8
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 3 (WORKER)
-https://raspy-forest-b1e4.aykara463.workers.dev/703.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 4
-https://corestream.ronaldovurdu.help/hls/bein-sports-4.m3u8
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 4 (WORKER)
-https://raspy-forest-b1e4.aykara463.workers.dev/704.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS 5
-https://corestream.ronaldovurdu.help/hls/bein-sports-5.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS MAX 1
-https://raspy-forest-b1e4.aykara463.workers.dev/714.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS MAX 2
-https://raspy-forest-b1e4.aykara463.workers.dev/715.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/ptv.bein.ui.icon.2025-01-02-21-41-18.png",BEIN SPORTS HABER
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsh.m3u8
-
-
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png",s_sport
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/s_sport.png",S SPORT
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png",Bein Sports 1
+https://raspy-forest-b1e4.aykara463.workers.dev/701.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png",Bein Sports 2
+https://raspy-forest-b1e4.aykara463.workers.dev/702.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports3.png",Bein Sports 3
+https://raspy-forest-b1e4.aykara463.workers.dev/703.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports4.png",Bein Sports 4
+https://raspy-forest-b1e4.aykara463.workers.dev/704.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports5.png",Bein Sports 5
+https://corestream.ronaldovurdu.help/hls/bein-sports-5.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsportsmax1.png",Bein Sports Max 1
+https://raspy-forest-b1e4.aykara463.workers.dev/714.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsportsmax2.png",Bein Sports Max 2
+https://raspy-forest-b1e4.aykara463.workers.dev/715.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsportshaber.png",Bein Sports Haber
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsh.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/s_sport.png",S Sport
 https://raspy-forest-b1e4.aykara463.workers.dev/705.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/s_sport2.png",S SPORT 2
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/s_sport2.png",S SPORT 2 (ALT)
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/s_sport2.png",S Sport 2
 https://raspy-forest-b1e4.aykara463.workers.dev/730.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/sporsmart.png",SPORSMART
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/sporsmart.png",SPORSMART (ALT)
+
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/sporsmart.png",Spor Smart
 https://raspy-forest-b1e4.aykara463.workers.dev/707.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/sporsmart2.png",SPORSMART 2
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/sporsmart2.png",SPORSMART 2 (ALT)
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/sporsmart2.png",Spor Smart 2
 https://raspy-forest-b1e4.aykara463.workers.dev/710.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor.png",TIVIBU SPOR
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor.png",TIVIBU SPOR (ALT)
+
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor.png",Tivibu Spor
 https://raspy-forest-b1e4.aykara463.workers.dev/708.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor1.png",TIVIBU SPOR 1
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor1.png",TIVIBU SPOR 1 (ALT)
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor1.png",Tivibu Spor 1
 https://raspy-forest-b1e4.aykara463.workers.dev/706.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor2.png",TIVIBU SPOR 2
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor2.png",TIVIBU SPOR 2 (ALT)
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor2.png",Tivibu Spor 2
 https://raspy-forest-b1e4.aykara463.workers.dev/711.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor3.png",TIVIBU SPOR 3
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor3.png",TIVIBU SPOR 3 (ALT)
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor3.png",Tivibu Spor 3
 https://raspy-forest-b1e4.aykara463.workers.dev/712.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor4.png",TIVIBU SPOR 4
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor4.png",TIVIBU SPOR 4 (ALT)
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor4.png",Tivibu Spor 4
 https://raspy-forest-b1e4.aykara463.workers.dev/713.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tv8.png",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tv85.png",TV8.5
+https://ds.ayakkabiparti.lol/tv85/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/trt1.png",TRT 1
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/trtspor.png",TRT Spor
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrts.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/trtspor-yildiz.png",TRT Spor Yıldız
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrtsy.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/aspor.png",A Spor
+https://andro.okan9gote10sokan.cfd/checklist/androstreamliveas.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/htspor.png",HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_480p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/nba.png",NBA TV
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivenba.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/redbulltv.png",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/fifa.png",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tv8.png",TV8
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv8.m3u8
