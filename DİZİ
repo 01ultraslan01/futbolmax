@@ -134,28 +134,29 @@ https://storage.diziyou.one/episodes/18748_tr/play.m3u8
 
 
 
-#EXTINF:-1,Küçük Davulcu | 1.Bölüm
-https://www.youtube.com/watch?v=0hKExH2uX78
-#EXTINF:-1,Küçük Davulcu | 2.Bölüm
-https://www.youtube.com/watch?v=v0-vI9XwVl4
-#EXTINF:-1,Küçük Davulcu | 3.Bölüm
-https://www.youtube.com/watch?v=R9mI-jR8D7Y
-#EXTINF:-1,Küçük Davulcu | 4.Bölüm
-https://www.youtube.com/watch?v=O7O3Hl8F-yI
-#EXTINF:-1,Küçük Davulcu | 5.Bölüm
-https://www.youtube.com/watch?v=W3y9mI-pM3Q
-#EXTINF:-1,Küçük Davulcu | 6.Bölüm
-https://www.youtube.com/watch?v=H7v-yL8T-xM
-#EXTINF:-1,Küçük Davulcu | 7.Bölüm
-https://www.youtube.com/watch?v=J7v-uP8R-zM
-#EXTINF:-1,Küçük Davulcu | 8.Bölüm
-https://www.youtube.com/watch?v=K7v-iL9G-xM
-#EXTINF:-1,Küçük Davulcu | 9.Bölüm
-https://www.youtube.com/watch?v=L7v-uP9V-zM
-#EXTINF:-1,Küçük Davulcu | 10.Bölüm
-https://www.youtube.com/watch?v=M7v-yL8B-xM
-#EXTINF:-1,Küçük Davulcu | 11.Bölüm
-https://www.youtube.com/watch?v=UUXRCMqkn4A
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 1.Bölüm
+https://www.youtube.com/embed/0hKExH2uX78
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 2.Bölüm
+https://www.youtube.com/embed/v0-vI9XwVl4
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 3.Bölüm
+https://www.youtube.com/embed/R9mI-jR8D7Y
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 4.Bölüm
+https://www.youtube.com/embed/O7O3Hl8F-yI
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 5.Bölüm
+https://www.youtube.com/embed/W3y9mI-pM3Q
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 6.Bölüm
+https://www.youtube.com/embed/H7v-yL8T-xM
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 7.Bölüm
+https://www.youtube.com/embed/J7v-uP8R-zM
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 8.Bölüm
+https://www.youtube.com/embed/K7v-iL9G-xM
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 9.Bölüm
+https://www.youtube.com/embed/L7v-uP9V-zM
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 10.Bölüm
+https://www.youtube.com/embed/M7v-yL8B-xM
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e42466121193335.60c0c8f529be8.jpg" group-title="1. Sezon",Küçük Davulcu | 11.Bölüm
+https://www.youtube.com/embed/UUXRCMqkn4A
 
 
 
