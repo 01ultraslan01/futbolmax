@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://666filmizle.site/storage/posters/2175/conversions/rip-poster-poster-custom.webp" group-title="666Film", RIP
-#EXTVLCOPT:http-referrer=https://p.rapidplay.website/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://p.rapidplay.website/videos/xT0rz7Ud/master.m3u8
 #EXTINF:-1 tvg-logo="https://666filmizle.site/storage/posters/2390/conversions/siccin-8-poster-poster-custom.webp" group-title="666Film", Siccīn 8
 #EXTVLCOPT:http-referrer=https://p.rapidplay.website/
