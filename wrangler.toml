@@ -2,6 +2,4 @@ name = "futbolmax-dizi"
 compatibility_date = "2026-05-16"
 
 [assets]
-directory = "./DİZİ"
-
-
+directory = "./playlist"
