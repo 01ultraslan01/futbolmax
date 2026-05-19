@@ -132,170 +132,145 @@ https://storage.diziyou.one/episodes/95016/play.m3u8
 #EXTINF:-1 tvg-logo="https://diziyou.one" group-title="The Boys", The Boys S02E08 Turkish
 https://storage.diziyou.one/episodes/95016_tr/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 1. Bölüm
+
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E01
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86401/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 1. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E01 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86401_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 2. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E02
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86402/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 2. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E02 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86402_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 3. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E03
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86403/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 3. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E03 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86403_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 4. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E04
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86404/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 4. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E04 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86404_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 5. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E05
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86405/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 5. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E05 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86405_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 6. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E06
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86406/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 6. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E06 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86406_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 7. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E07
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86407/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 7. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E07 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86407_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 8. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E08
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86408/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 1. Sezon 8. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S01E08 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86408_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 1. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E01
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86409/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 1. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E01 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86409_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 2. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E02
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86410/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 2. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E02 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86410_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 3. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E03
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86411/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 3. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E03 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86411_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 4. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E04
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86412/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 4. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E04 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86412_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 5. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E05
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86413/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 5. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E05 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86413_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 6. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E06
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86414/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 6. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E06 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86414_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 7. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E07
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86415/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 7. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E07 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86415_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 8. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E08
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86416/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 2. Sezon 8. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S02E08 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86416_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 1. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S03E01
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86417/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 1. Bölüm
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria S03E01 Turkish
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://storage.diziyou.one/episodes/86417_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 2. Bölüm
-#EXTVLCOPT:http-referrer=https://www.diziyou.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://storage.diziyou.one/episodes/86418/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 2. Bölüm
-#EXTVLCOPT:http-referrer=https://www.diziyou.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://storage.diziyou.one/episodes/86418_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 3. Bölüm
-#EXTVLCOPT:http-referrer=https://www.diziyou.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://storage.diziyou.one/episodes/86419/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 3. Bölüm
-#EXTVLCOPT:http-referrer=https://www.diziyou.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://storage.diziyou.one/episodes/86419_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 4. Bölüm
-#EXTVLCOPT:http-referrer=https://www.diziyou.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://storage.diziyou.one/episodes/86420/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 4. Bölüm
-#EXTVLCOPT:http-referrer=https://www.diziyou.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://storage.diziyou.one/episodes/86420_tr/play.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 5. Bölüm
-#EXTVLCOPT:http-referrer=https://www.diziyou.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://storage.diziyou.one/episodes/86421/play.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/euphoria.jpg" group-title="Diziyou - Euphoria", Euphoria - 3. Sezon 5. Bölüm
 #EXTVLCOPT:http-referrer=https://www.diziyou.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
