@@ -1183,5 +1183,104 @@ https://storage.diziyou.one/episodes/155107_tr/play.m3u8
 https://storage.diziyou.one/episodes/155108/play.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/someone-has-to-know.jpg"group-title="YENi DiZiLER",Someone Has to Know - S01E08
 https://storage.diziyou.one/episodes/155108_tr/play.m3u8
-#EXTINF:-1 tvg-logo=""group-title="YENi DiZiLER",
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E01
+https://storage.diziyou.one/episodes/116801/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E01 TR
+https://storage.diziyou.one/episodes/116801_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E02
+https://storage.diziyou.one/episodes/116802/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E02 TR
+https://storage.diziyou.one/episodes/116802_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E03
+https://storage.diziyou.one/episodes/116803/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E03 TR
+https://storage.diziyou.one/episodes/116803_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E04
+https://storage.diziyou.one/episodes/116804/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E04 TR
+https://storage.diziyou.one/episodes/116804_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E05
+https://storage.diziyou.one/episodes/116805/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E05 TR
+https://storage.diziyou.one/episodes/116805_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E06
+https://storage.diziyou.one/episodes/116806/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/american-primeval.jpg"group-title="Western",American Primeval - S01E06 TR
+https://storage.diziyou.one/episodes/116806_tr/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E01
+https://storage.diziyou.one/episodes/90901/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E01 TR
+https://storage.diziyou.one/episodes/90901_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E02
+https://storage.diziyou.one/episodes/90902/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E02 TR
+https://storage.diziyou.one/episodes/90902_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E03
+https://storage.diziyou.one/episodes/90903/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E03 TR
+https://storage.diziyou.one/episodes/90903_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E04
+https://storage.diziyou.one/episodes/90904/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E04 TR
+https://storage.diziyou.one/episodes/90904_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E05
+https://storage.diziyou.one/episodes/90905/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E05 TR
+https://storage.diziyou.one/episodes/90905_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E06
+https://storage.diziyou.one/episodes/90906/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E06 TR
+https://storage.diziyou.one/episodes/90906_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E07
+https://storage.diziyou.one/episodes/90907/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E07 TR
+https://storage.diziyou.one/episodes/90907_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E08
+https://storage.diziyou.one/episodes/90908/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E08 TR
+https://storage.diziyou.one/episodes/90908_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E09
+https://storage.diziyou.one/episodes/90909/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E09 TR
+https://storage.diziyou.one/episodes/90909_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E10
+https://storage.diziyou.one/episodes/90910/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/yellowstone.jpg"group-title="Western",Yellowstone - S01E10 TR
+https://storage.diziyou.one/episodes/90910_tr/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/territory.jpg"group-title="Western",Territory - S01E01
+https://storage.diziyou.one/episodes/107501/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/territory.jpg"group-title="Western",Territory - S01E01 TR
+https://storage.diziyou.one/episodes/107501_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/territory.jpg"group-title="Western",Territory - S01E02
+https://storage.diziyou.one/episodes/107502/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/territory.jpg"group-title="Western",Territory - S01E02 TR
+https://storage.diziyou.one/episodes/107502_tr/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/outer-range.jpg"group-title="Western",Outer Range - S01E01
+https://storage.diziyou.one/episodes/18401/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/outer-range.jpg"group-title="Western",Outer Range - S01E01 TR
+https://storage.diziyou.one/episodes/18401_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/outer-range.jpg"group-title="Western",Outer Range - S01E02
+https://storage.diziyou.one/episodes/18402/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/outer-range.jpg"group-title="Western",Outer Range - S01E02 TR
+https://storage.diziyou.one/episodes/18402_tr/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/westworld.jpg"group-title="Western",Westworld - S01E01
+https://storage.diziyou.one/episodes/40601/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/westworld.jpg"group-title="Western",Westworld - S01E01 TR
+https://storage.diziyou.one/episodes/40601_tr/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/westworld.jpg"group-title="Western",Westworld - S01E02
+https://storage.diziyou.one/episodes/40602/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/westworld.jpg"group-title="Western",Westworld - S01E02 TR
+https://storage.diziyou.one/episodes/40602_tr/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/that-dirty-black-bag.jpg"group-title="Western",That Dirty Black Bag - S01E01
+https://storage.diziyou.one/episodes/18201/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/that-dirty-black-bag.jpg"group-title="Western",That Dirty Black Bag - S01E02
+https://storage.diziyou.one/episodes/18202/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/that-dirty-black-bag.jpg"group-title="Western",That Dirty Black Bag - S01E03
+https://storage.diziyou.one/episodes/18203/play.m3u8
 
