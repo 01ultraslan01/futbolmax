@@ -497,9 +497,9 @@ https://feneradamideler.testworker0y.workers.dev/channel/VFJUIFdvcmxk
 #EXTINF:-1 tvg-id="sozcuyedek" tvg-name="Sözcü Tv -B-" tvg-logo="https://www.indyturk.com/sites/default/files/article/main_image/2021/07/07/705061-474968398.jpg" group-title="Haber",Sözcü Tv -B-
 https://diyanetcocuk.testworkery0.workers.dev/?ch=sozcu
 
-#EXTINF:-1 tvg-id="ulketvkab" tvg-name="Ülke Tv" tvg-logo="https://yt3.googleusercontent.com/BeqM8H7MzuN8MG_6CAIHrUx3GJj9clKUp6lPqdvrQkwYHGORImF_XpqM6JhlPdR4H2UMnuPp=s900-c-k-c0x00ffffff-no-rj"group-title="Sinema",FX (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ulketvkab" tvg-name="Ülke Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/960px-FX_Logo_2023.svg.png"group-title="Sinema",FX (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="ulketvkab" tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/960px-FX_Logo_2023.svg.png"group-title="Çocuk",Disney Jr. (1080p)]
+#EXTINF:-1 tvg-id="ulketvkab" tvg-name="Disney Jr." tvg-logo="https://yt3.googleusercontent.com/BeqM8H7MzuN8MG_6CAIHrUx3GJj9clKUp6lPqdvrQkwYHGORImF_XpqM6JhlPdR4H2UMnuPp=s900-c-k-c0x00ffffff-no-r"group-title="Çocuk",Disney Jr. (1080p)]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="ulketvkab" tvg-name="National Geographic" tvg-logo="https://images.migrosone.com/macrocenter/product/37500986/37500986-0e3c49.jpg"group-title="Belgesel",National Geographic (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeohd/index.m3u8
