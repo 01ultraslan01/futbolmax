@@ -15,16 +15,17 @@ https://one.caec6083d6b01cf5.click/live/sbeinsports-4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ" group-title="Spor Kanalları",BeIN Sports 5
 https://one.caec6083d6b01cf5.click/live/sbeinsports-5/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/aspor-volotv-tvlive-ws3y.webp" group-title="Spor Kanalları",Aspor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 -A-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="Ulusal",TRT 1 -A-
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-id="trtturk" tvg-name="TRT Türk -A-" tvg-logo="https://img.dsmartgo.com.tr/content/7/LM/13383/Thumbnail.png" group-title="Ulusal",TRT Türk -A-
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="kanaldc" tvg-name="Kanal D -C-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal",Kanal D
-https://kz.testworkery0.workers.dev/kanald?key=patr0n
+#EXTINF:-1 tvg-id="kanaldc" tvg-name="Kanal D -C-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal",Atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-id="kanalddsmlegal" tvg-name="Kanal D -D-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Ulusal",Kanal D -D-
 http://87.121.104.29:5010/channel?id=245931&token=15d5ba3ae88e1374ed093bead26df88a
@@ -78,16 +79,13 @@ https://birazkizilbirazmavi.testworker0y.workers.dev/channel/VHY4LjUgfCBB
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-id="kanal7b" tvg-name="Kanal 7 -B-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/9ebd243aafd11f7e8bd8409e04a13860.jpg" group-title="Ulusal",Kanal 7 -B-
-https://eskicr.denek1544.workers.dev/izle/kanal7-106.m3u8
+https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:-1 tvg-id="tv360" tvg-name="360 Tv -A-" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kZVDU4urtdSMj-Ubv76W22JRs-GiLQN1UA29bzu4aa6uk=s160-c-k-c0x00ffffff-no-rj" group-title="Ulusal",360 Tv -A-
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 
 #EXTINF:-1 tvg-id="beyaztv" tvg-name="Beyaz Tv -A-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/f52aae2d29699a04cf4209cbe7367996.png" group-title="Ulusal",Beyaz Tv -A-
-https://eskicr.denek1544.workers.dev/izle/beyaztv-105.m3u8
-
-#EXTINF:-1 tvg-id="beyaztvb" tvg-name="Beyaz Tv -B-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/f52aae2d29699a04cf4209cbe7367996.png" group-title="Ulusal",Beyaz Tv -B-
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:-1 tvg-id="teve2" tvg-name="Teve 2 -A-" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/png/2cf916833b3c64448b36830d2b238685.png" group-title="Ulusal",Teve 2 -A-
 https://birazkizilbirazmavi.testworker0y.workers.dev/channel/VGV2ZTI=
