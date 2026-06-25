@@ -1,3 +1,13 @@
+
+#EXTINF:-1 group-title="URLResolver", yabanci 2025
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/ELXXGkLr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/ELXXGkLr?download
+#EXTINF:-1 group-title="URLResolver", yabanci 2025
+#EXTVLCOPT:http-referrer=https://pixeldrain.com/u/1nyE4mjf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pixeldrain.com/api/file/1nyE4mjf?download
+
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.tv/poster/film/m3gan-20-71167.webp"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",M3GAN 2.0
 https://s21.seeshare.pics/me/GGAUDH4hZv4jYwVjZwHhI0IPYHEZYwRjBQOjYxEIDHjhFP4lAwDgFREAd0zxp2Iyp2uupzHhpTywpjs0xi21vr1.m3u8
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.tv/poster/film/fareler-bir-witcher-hikayesi-the-rats-a-witcher-tale-59125.webp"group-title="YENİ EKLENENLER":http-referrer="":http-user-agent="",Fareler: Bir Witcher Hikâyesi
