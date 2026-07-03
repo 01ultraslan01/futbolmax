@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="Ulusal" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trt1.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="Ulusal" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/trt1.png",TRT 1
+https://www.mackeyfi502.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=5032#sdr=mackeyfi.com&autoPlay=1&poster=https%3A%2F%2Fwww.mackeyfi502.sbs%2Fwp-content%2Fuploads%2F2022%2F10%2Fwal-1.png&position=top-right&watermark=https%3A%2F%2Fwww.mackeyfi502.sbs%2Fwp-content%2Fuploads%2F2025%2F07%2FAds%C4%B1z.png&watermarkLink=https%3A%2F%2Fwww.mackeyfi502.sbs
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="Ulusal" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/atv.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="Ulusal" tvg-logo="https://saraydorf.de/tv/turk-tv1/image/kanald.png",Kanal D 
