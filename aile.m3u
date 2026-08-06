@@ -1,37 +1,96 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/07/bookworm-180x270.jpg" group-title="Aile", Bookworm – Bookworm (2024)
-https://p.2turk.xyz/videos/BGUkASN/master.m3u8
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/07/findikkiran-ve-sihirli-flut-180x270.jpg" group-title="Aile", Fındıkkıran ve Sihirli Flüt – Щелкунчик и Волшебная Флейта (2022)
-https://tatatam.trt1sultanfatihss.workers.dev/https://p.2turk.xyz/videos/Aqt9xWt/master.m3u8
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/07/muzede-bir-gece-kahmunrahin-yukselisi-180x270.jpg" group-title="Aile", Müzede Bir Gece: Kahmunrah’ın Yükselişi – Night at the Museum: Kahmunrah Rises Again (2022)
-https://p.2turk.xyz/#ynN9BnF
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/belle-ve-sebastian-cesur-dostum-180x270.jpg" group-title="Aile", Belle ve Sebastian: Cesur Dostum – Belle et Sébastien – Nouvelle génération (2022)
-https://p.2turk.xyz/#vDt7zqN
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/ozel-bir-hediye-180x270.jpg" group-title="Aile", Özel Bir Hediye – Le Nouveau Jouet (2022)
-https://p.2turk.xyz/#AD3cMqB
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/07/reviviendo-la-navidad-180x270.jpg" group-title="Aile", Reviviendo la Navidad – Reviviendo la Navidad (2022)
-https://p.2turk.xyz/#ACI0zn3
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/barbie-deniz-kizi-gucu-180x270.jpg" group-title="Aile", Barbie: Deniz Kızı Gücü – Barbie: Mermaid Power (2022)
-https://p.2turk.xyz/#xSA6ATJ
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/yeni-nesil-kizilin-yukselisi-180x270.jpg" group-title="Aile", Yeni Nesil: Kızıl’ın Yükselişi – Descendants: The Rise of Red (2024)
-https://p.2turk.xyz/#AnIbACl
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/sampiyon-180x270.jpg" group-title="Aile", Şampiyon – El campeón (2024)
-https://p.2turk.xyz/#y7E1wqp
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/casusum-ebedi-sehir-180x270.jpg" group-title="Aile", Casusum: Ebedi Şehir – My Spy The Eternal City (2024)
-https://p.2turk.xyz/#wT4pyCx
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/super-aile-180x270.jpg" group-title="Aile", Süper Aile – Helt super (2022)
-https://p.2turk.xyz/#w769zDF
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/sihirli-flut-180x270.jpg" group-title="Aile", Sihirli Flüt – The Magic Flute – Das Vermächtnis der Zauberflöte (2022)
-https://p.2turk.xyz/#vCskxTl
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/beklenmedik-macera-180x270.jpg" group-title="Aile", Beklenmedik Macera – Legacy Peak (2022)
-https://p.2turk.xyz/#w7QfzD3
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/cam-ustasi-180x270.jpg" group-title="Aile", Cam Ustası – شیشہ گر (2024)
-https://p.2turk.xyz/#NCohzmx
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/pinokyo-180x270.jpg" group-title="Aile", Pinokyo – Pinocchio (2022)
-https://p.2turk.xyz/#w7gpvTIh
-#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/ivy-bean-gitmesi-gereken-hayalet-180x270.jpg" group-title="Aile", Ivy + Bean: Gitmesi Gereken Hayalet – Ivy + Bean: The Ghost That Had to Go (2022)
-https://p.2turk.xyz/#wnp7vSAi
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/07/lost-bullet-2-180x270.jpg" group-title="Aksiyon", Lost Bullet 2 – Balle perdue 2 (2022)
+https://p.2turk.xyz/videos/N7l6x8x/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/black-adam-180x270.jpg" group-title="Aksiyon", Black Adam – Black Adam (2022)
+https://p.2turk.xyz/videos/wDEoLCR/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/justice-league-crisis-on-infinite-earths-part-three-180x270.jpg" group-title="Aksiyon", Justice League: Crisis on Infinite Earths Part Three (2024)
+https://p.2turk.xyz/videos/y7EbwDB/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/casusum-ebedi-sehir-180x270.jpg" group-title="Aksiyon", Casusum: Ebedi Şehir – My Spy The Eternal City (2024)
+https://p.2turk.xyz/videos/wT4pyCx/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/kiralik-katil-tetikci-tatilde-180x270.jpg" group-title="Aksiyon", Kiralık Katil: Tetikçi Tatilde – Accident Man: Hitman’s Holiday (2022)
+https://p.2turk.xyz/videos/xWUdAmx/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/deadpool-wolverine-180x270.jpg" group-title="Aksiyon", Deadpool & Wolverine – Deadpool & Wolverine (2024)
+https://p.2turk.xyz/videos/MCM8w79/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/kim-bu-aile-180x270.jpg" group-title="Aksiyon", Kim Bu Aile? – Kim Bu Aile? (2022)
+https://p.2turk.xyz/videos/xT0ixSA7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/super-volcano-180x270.jpg" group-title="Aksiyon", Super Volcano – Super Volcano (2022)
+https://p.2turk.xyz/videos/BmwsLDJ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/teksasta-olum-180x270.jpg" group-title="Aksiyon", Teksas’ta Ölüm – Death in Texas (2022)
+https://p.2turk.xyz/videos/wnofB70m/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/cifte-pazarlik-180x270.jpg" group-title="Aksiyon", Çifte Pazarlık – No negociable (2024)
+https://p.2turk.xyz/videos/BmQ7Mnx/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/kadin-kral-180x270.jpg" group-title="Aksiyon", Kadın Kral – The Woman King (2022)
+https://p.2turk.xyz/videos/xDo0x8l/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/worldbreaker-180x270.jpg" group-title="Aksiyon", Worldbreaker – Worldbreaker (2025)
+https://p.2turk.xyz/videos/zWB0vqF6/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/tek-yon-180x270.jpg" group-title="Aksiyon", Tek Yön – One Way (2022)
+https://p.2turk.xyz/videos/Mmsly7d/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/sisu-180x270.jpg" group-title="Aksiyon", Sisu – Sisu (2022)
+https://p.2turk.xyz/videos/vDgsz8p/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/asi-180x270.jpg" group-title="Aksiyon", Asi – Rebel (2022)
+https://p.2turk.xyz/videos/MDwiwDl/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/day-shift-180x270.jpg" group-title="Aksiyon", Day Shift – Day Shift (2022)
+https://p.2turk.xyz/videos/ATRaySIi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/d-i-s-c-o-180x270.jpg" group-title="Aksiyon", D.I.S.C.O. – D.I.S.C.O. (2026)
+https://p.2turk.xyz/videos/BCMovTIp/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/canavar-180x270.jpg" group-title="Aksiyon", Canavar – Beast (2022)
+https://p.2turk.xyz/videos/BmMrw7d/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/e98a80e6b2b3e789b9e680a5-e3839fe383abe382ade383bce29886e382b5e38396e382a6e382a7e382a4-e59084e9a785e5819ce8bb8ae58a87e5a0b4e8a18ce3818d-180x270.jpg" group-title="Aksiyon", 銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き (2026)
+https://p.2turk.xyz/videos/xmo7vqt7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/one-piece-film-red-180x270.jpg" group-title="Aksiyon", One Piece Film: Red – ONE PIECE FILM RED (2022)
+https://p.2turk.xyz/videos/wTggvnp/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/olunu-goreyim-180x270.jpg" group-title="Aksiyon", Ölünü Göreyim – Over Your Dead Body (2026)
+https://p.2turk.xyz/videos/x7ggvmU5/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/carter-180x270.jpg" group-title="Aksiyon", Carter – 카터 (2022)
+https://p.2turk.xyz/videos/BDArAmon/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/seni-oldurecekler-180x270.jpg" group-title="Aksiyon", Seni Öldürecekler – They Will Kill You (2026)
+https://p.2turk.xyz/videos/xGE7LSJ9/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/suikast-treni-180x270.jpg" group-title="Aksiyon", Suikast Treni – Bullet Train (2022)
+https://p.2turk.xyz/videos/zCEaAnl/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/acil-inis-180x270.jpg" group-title="Aksiyon", Acil İniş – 비상선언 (2022)
+#EXTVLCOPT:http-referrer=https://p.rapidplay.website/
+https://p.rapidplay.website/videos/LTlaxCx/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/av-180x270.jpg" group-title="Aksiyon", Av – The Hunt (2020)
+https://p.2turk.xyz/videos/Bnw6wDoc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/boss-level-180x270.jpg" group-title="Aksiyon", Boss Level – Boss Level (2021)
+https://p.2turk.xyz/videos/BCMoxmY5/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/galaksinin-koruyuculari-2-180x270.jpg" group-title="Aksiyon", Galaksinin Koruyucuları 2 – Guardians of the Galaxy Vol. 2 (2017)
+https://p.2turk.xyz/videos/xTVcvWMf/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/galaksinin-koruyuculari-180x270.jpg" group-title="Aksiyon", Galaksinin Koruyucuları – Guardians of the Galaxy (2014)
+https://p.2turk.xyz/videos/BCMhxmko/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/immortal-combat-180x270.jpg" group-title="Aksiyon", Immortal Combat – Immortal Combat (2026)
+https://p.2turk.xyz/videos/yWt0MDIq/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/baba-beni-guldursene-180x270.jpg" group-title="Aile", Baba Beni Güldürsene – Baba Beni Güldürsene (2024)
 https://p.2turk.xyz/#LTMdBata
 #EXTINF:-1 tvg-logo="https://sinekfilmizle.com/wp-content/uploads/2026/06/ivy-bean-bale-mahkumlari-180x270.jpg" group-title="Aile", Ivy + Bean: Bale Mahkumları – Ivy + Bean: Doomed to Dance (2022)
