@@ -1,11 +1,5 @@
 #EXTM3U
 
-
-
-#EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ",Bein Sports 1
-https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
-#EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ",Bein Sports 1
-https://corestream.siteyaptim.live//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ",Bein Sports 1
 https://corestream.siteyaptim.live//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://play-lh.googleusercontent.com/BDUySDHFzY4JcRzQpLsIHiZKLvIEmVL5N30qc-DWwVhwN3dJqV0J4BKE6XH9EOw_ygQ",Bein Sports 1
