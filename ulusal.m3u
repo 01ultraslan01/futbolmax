@@ -4,7 +4,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="kanald" tvg-logo="https://i.postimg.cc/rFzs0nGf/1724096090774_Kanal_D.jpg" tvg-name="Kanal D " group-title="Ulusal",Kanal D 
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
-
+#EXTINF:-1 tvg-id="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" tvg-name="A Haber " group-title="Ulusal",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 
 #EXTINF:-1 tvg-id="showtv" tvg-logo="https://i.postimg.cc/CLd5BPC7/1724096072211_Show_TV_(1).jpg" tvg-name="Show Tv -A-" group-title="Ulusal",Show Tv
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
