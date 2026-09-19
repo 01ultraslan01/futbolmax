@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="trt1" tvg-logo="https://i.postimg.cc/jdC2wg6g/1724096081490_TRT_1.jpg" tvg-name="TRT 1 -A-" group-title="Ulusal",TRT 1 
+https://ladyboy.taylandpattaya.cfd//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="trt1" tvg-logo="https://i.postimg.cc/jdC2wg6g/1724096081490_TRT_1.jpg" tvg-name="TRT 1 -A-" group-title="Ulusal",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
