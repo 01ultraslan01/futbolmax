@@ -10,8 +10,10 @@ https://macvardi283.com/channel?id=b2
 https://macvardi283.com/channel?id=b3
 #EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png",S Sport
 https://macvardi283.com/channel?id=ss
-#EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYR3K-XGQ8TfexbDpbX7csT3TuIkKYDsTkOFFH1kCZTJN8uALCCGoQO8w&s=10",Şaban TV
+#EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://play-lh.googleusercontent.com/XA5CCxCjjMCvv1WM6qB3ZsgZAl3z-n_UGH_o7nLA2Uto38g1nWkHMi65EBsRFI8mg9M1xwO1TYV8OWIFvqU7Hg",Şaban TV
 https://www.youtube.com/channel/UCHumSHRFQ8skiHTY75sxytQ/live
+#EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZbnMaiZzBpSzpNJcJwmeDmjhXRpKOofukWiSsdA75k9Eq3DYbclyle0&s=10",Yeşilçam TV
+https://www.youtube.com/channel/UCmw7e_6j2TSWCKeaZALjyuA/live
 
 #EXTINF:-1 tvg-id="trt1" tvg-logo="https://i.postimg.cc/jdC2wg6g/1724096081490_TRT_1.jpg" tvg-name="TRT 1 -A-" group-title="Ulusal",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
