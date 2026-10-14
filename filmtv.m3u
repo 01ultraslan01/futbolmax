@@ -1,9 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://sinekfilmizle.net/wp-content/uploads/2025/11/cilgin-maks-150x150.jpg" group-title="SinekFilm - Tüm Filmler", Çılgın Maks - Mad Max (1979)
-https://p.playturka.space/videos/eSr7x8e/master.m3u8
+https://p.playturka.space/#eSr7x8e
+
 #EXTINF:-1 tvg-logo="https://sinekfilmizle.net/wp-content/uploads/2026/06/mukemmel-aile-150x150.jpg" group-title="SinekFilm - Tüm Filmler", Mükemmel Aile - La familia perfecta (2021)
-https://p.playturka.space/videos/ex580AC/master.m3u8
+https://p.playturka.space/videos/eSr7x8e/playlist_min.m3u8
 #EXTINF:-1 tvg-logo="https://sinekfilmizle.net/wp-content/uploads/2026/06/aslan-yurek-150x150.jpg" group-title="SinekFilm - Tüm Filmler", Aslan Yürek - Le Lion (2020)
 https://p.playturka.space/videos/ehdWUVW/master.m3u8
 #EXTINF:-1 tvg-logo="https://sinekfilmizle.net/wp-content/uploads/2026/08/aaahh-belinda-150x150.jpg" group-title="SinekFilm - Tüm Filmler", Aaahh Belinda - Aaahh Belinda (2023)
