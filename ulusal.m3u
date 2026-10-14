@@ -14,6 +14,16 @@ https://macvardi283.com/channel?id=ss
 https://www.youtube.com/channel/UCHumSHRFQ8skiHTY75sxytQ/live
 #EXTINF:-0 group-title="Yeşilçam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZbnMaiZzBpSzpNJcJwmeDmjhXRpKOofukWiSsdA75k9Eq3DYbclyle0&s=10",Yeşilçam TV
 https://www.youtube.com/channel/UCmw7e_6j2TSWCKeaZALjyuA/live
+#EXTINF:-0 group-title="Yeşilçam TV" tvg-logo="https://yt3.googleusercontent.com/zaRE3FlyhOXHICK2rNbuTbtiyLPuQ0PpLPcgJ2Izg966qPrv9pH-NiJHMoCxUwbG7e7DgSaa9w=s900-c-k-c0x00ffffff-no-rj",Yeşilçam  Aksiyon TV
+https://www.youtube.com/channel/UC0LzwfdVoZSQDtauDjJS8_A/live
+#EXTINF:-0 group-title="Yeşilçam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZbnMaiZzBpSzpNJcJwmeDmjhXRpKOofukWiSsdA75k9Eq3DYbclyle0&s=10",Yeşilçam  TV2
+https://www.youtube.com/channel/UCSzPuEDRxG-pRCoM3xA0Xig/live
+
+#EXTINF:-0 group-title="Çocuk TV" tvg-logo="https://yt3.googleusercontent.com/LzdX3ZFIuPv36EpRL0fQLB3Utf40-BryNmIhX0xad9f_Whw0g8qWA9AmjtDSjY9lABqxbq-VLA=s900-c-k-c0x00ffffff-no-rj",HOPHOP BAYKUŞ TV
+https://www.youtube.com/channel/UC8Y11RI7jyTEGjFF3_ULefA/live   
+#EXTINF:-0 group-title="Çocuk TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kfEODNwntJ-PxfvwroBZU5SizsrUqensgGUiFO6-GRck4=s900-c-k-c0x00ffffff-no-rj",Kukili TV
+https://www.youtube.com/channel/UCF5IUvgXe_3sHBuKpEz7Btw/live   
+
 
 #EXTINF:-1 tvg-id="trt1" tvg-logo="https://i.postimg.cc/jdC2wg6g/1724096081490_TRT_1.jpg" tvg-name="TRT 1 -A-" group-title="Ulusal",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
