@@ -12,6 +12,8 @@ https://macvardi283.com/channel?id=b3
 https://macvardi283.com/channel?id=ss
 #EXTINF:-0 group-title="Yeşilçam TV" tvg-logo="https://play-lh.googleusercontent.com/XA5CCxCjjMCvv1WM6qB3ZsgZAl3z-n_UGH_o7nLA2Uto38g1nWkHMi65EBsRFI8mg9M1xwO1TYV8OWIFvqU7Hg",Şaban TV
 https://www.youtube.com/channel/UCHumSHRFQ8skiHTY75sxytQ/live
+#EXTINF:-0 group-title="Yeşilçam TV" tvg-logo="https://play-lh.googleusercontent.com/XA5CCxCjjMCvv1WM6qB3ZsgZAl3z-n_UGH_o7nLA2Uto38g1nWkHMi65EBsRFI8mg9M1xwO1TYV8OWIFvqU7Hg",Şaban TV2
+https://canaktv.sabantv.net:3996/stream/play.m3u8
 #EXTINF:-0 group-title="Yeşilçam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZbnMaiZzBpSzpNJcJwmeDmjhXRpKOofukWiSsdA75k9Eq3DYbclyle0&s=10",Yeşilçam TV
 https://www.youtube.com/channel/UCmw7e_6j2TSWCKeaZALjyuA/live
 #EXTINF:-0 group-title="Yeşilçam TV" tvg-logo="https://yt3.googleusercontent.com/zaRE3FlyhOXHICK2rNbuTbtiyLPuQ0PpLPcgJ2Izg966qPrv9pH-NiJHMoCxUwbG7e7DgSaa9w=s900-c-k-c0x00ffffff-no-rj",Yeşilçam  Aksiyon TV
@@ -20,6 +22,12 @@ https://www.youtube.com/channel/UC0LzwfdVoZSQDtauDjJS8_A/live
 https://www.youtube.com/channel/UCSzPuEDRxG-pRCoM3xA0Xig/live
 #EXTINF:-0 group-title="Çocuk TV" tvg-logo="https://image.hurimg.com/i/hurriyet/90/0x0/67ffb6c76462286b05002d87.jpg",Rafadan Tayfa TV
 https://www.youtube.com/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q/live
+#EXTINF:-0 group-title="Çocuk TV" tvg-logo="https://image.hurimg.com/i/hurriyet/90/0x0/67ffb6c76462286b05002d87.jpg",Rafadan Tayfa TV
+https://www.youtube.com/channel/UCrFf5dtMe6M1XJHqbKJ4X6Q/live
+#EXTINF:-0 group-title="Çocuk TV" tvg-logo="https://www.canaktv.net/uploads/kanallar/disneyjrpng.png",Disney Jr.
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-0 group-title="Çocuk TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVmyn57mlHUp9OAgVDYq1BUS8RrmxxxNTRSRBVvVxLmkGEzX1p8FnCcc&s=10",Spacetoon Turkey
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 
 #EXTINF:-1 tvg-id="trt1" tvg-logo="https://i.postimg.cc/jdC2wg6g/1724096081490_TRT_1.jpg" tvg-name="TRT 1 -A-" group-title="Ulusal",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -34,7 +42,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-id="atv" tvg-logo="https://i.postimg.cc/qMgqhbcQ/1724096099209_ATV.jpg" tvg-name="ATV -A-" group-title="Ulusal",ATV 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-
+#EXTINF:-1 tvg-id="atv" tvg-logo="https://i.postimg.cc/qMgqhbcQ/1724096099209_ATV.jpg" tvg-name="ATV -A-" group-title="Ulusal",ATV 
+https://tvizle.tr/api/yayin?c=atv-tr&i=1
 #EXTINF:-1 tvg-id="startv" tvg-logo="https://i.postimg.cc/m2hkzX3p/1724096119020_Star_TV.jpg" tvg-name="Star Tv -A-" group-title="Ulusal",Star Tv 
 https://dygvideo.dygdigital.com/live/hls/startv4puhu
 
