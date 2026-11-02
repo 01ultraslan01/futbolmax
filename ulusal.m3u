@@ -21,29 +21,7 @@ https://css.d6e3eds5e065t5.help//bein3/tracks-v1a1/mono.m3u8
 https://css.d6e3eds5e065t5.help//bein4/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://ginikoturkish.com/channels/logo/trt-1-epg-.gif" group-title="TRT1",TRT 1 (EPG) - Live (Canlı)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/8a78f968c5af0f77867b387dc45f3ffd.jpg" group-title="TRT1",Kod Adi Kirlangiç (2026-10-10 05:30)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791610200-5400.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/761dbc83ef8a55f19541b9c1adcf782b.jpg" group-title="TRT1",Hayallerinin Pesinde (2026-10-10 07:00)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791615600-4500.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/6fee426d9823b53846c81b109ab05906.jpg" group-title="TRT1",Teskilat (2026-10-10 11:45)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791632700-11100.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/97ca2e2b6c878209451f3763c153da3e.jpg" group-title="TRT1",Turgay Basyayla ile Lezzetli Tavsiye (2026-10-10 14:50)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791643800-4200.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/d78c541bd8b5452b1ae6e7da82f98087.jpg" group-title="TRT1",Gönül Dagi (2026-10-10 17:00)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791651600-14100.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/1f25c06f4a0ccc5bbded5054ca0fafcf.jpg" group-title="TRT1",Ana Haber (2026-10-10 16:00)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791648000-3600.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/dcf3a4ade5d3cb1b9062b63b40ee74f3.jpg" group-title="TRT1",Pelin Çift Ile Gündem Ötesi (2026-10-10 20:55)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791665700-4500.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/60d94c7dc23f1296b9558a8d8303786e.jpg" group-title="TRT1",Tasacak Bu Deniz (2026-10-10 08:15)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791620100-12600.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/97ca2e2b6c878209451f3763c153da3e.jpg" group-title="TRT1",Turgay Basyayla ile Lezzetli Tavsiye (2026-10-11 00:45)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791679500-3000.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/6fee426d9823b53846c81b109ab05906.jpg" group-title="TRT1",Teskilat (2026-10-10 22:25)
-https://square-leaf-d613.panorea1000.workers.dev/proxy?url=https://trn03.tulix.tv/gt-trt_1/index-1791671100-8400.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg-def/gt-trt_1/592f78501f0b27cb53e8c471916cb672.jpg" group-title="TRT1",Pelin Çift Ile Gündem Ötesi Arti (2026-10-10 22:10)
+
 
 
 #EXTINF:-0 tvg-logo="https://saraydorf.de/spor/img/tv.png" group-title="Streamgo Sportv",Bein Sports 4 HD
