@@ -3,17 +3,48 @@
 
 #EXTINF:-0 tvg-logo="https://saraydorf.de/spor/img/tv.png" group-title="SPOR KANALLARI",Bein Sports 1 720   
 https://css.d6e3eds5e065t5.help/hls/b1.m3u8
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="Canlıkolik",Beinsports 1 HD
+https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/1.m3u8
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="Streamgo TV",Beinsports 1 HD
+https://cdn.codenet.work:443/streamgo/stremgo123/4864.m3u8
 
 #EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png",Bein Sports Sports 1
 https://zeus728177.cfd/m/AQ_b_k6Gpqj7Qy0i_yKxcXMFiQaOoKT7G8T88uPqxAD7OMpACFB_8_FO-A
 
-#EXTINF:-0 tvg-logo="https://saraydorf.de/spor/img/tv.png" group-title="Streamgo Sportv",Bein Sports 1 HD
-https://cdn.codenet.work/streamgo/stremgo123/4864.m3u8
 
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="Streamgo TV",Beinsports 1 HD
+https://cdn.codenet.work:443/streamgo/stremgo123/4864.m3u8
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="Atomspor",Beinsports 1 HD
+https://css.d6e3eds5e065t5.help//b1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="ZEUSTV",Bein 1       
+https://zeus728177.cfd/m/AQ_b_k6Gpqj7Qy0i_yKxcXMFiQaOoKT7G8T88uPqxAD7OMpACFB_8_FO-A
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="ZEUSTV",Bein 1   
+https://zeus728177.cfd/m/AdT3X0_Bx72c-PfoLhMLMGmXf0KyulWTxebkdj4UY4nh4wrsA5949xWSgg
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/exxen.png" group-title="ZEUSTV",Bein 1 720   
+https://zeus728177.cfd/m/AfW3D_eqpUGCwry079KPUB-7uozpVj6pHDXbrXEfm54WWSmSMqtLPSMBeA
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="ZEUSTV 2",Bein 1 
+https://zeus645423.cfd/b1/index.txt
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="ZEUSTV 2",Bein 1
+https://zeus645423.cfd/b1local/index.txt
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="ZEUSTV 2",Bein 2 
+https://zeus645423.cfd/b2/index.txt
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="ZEUSTV",Bein 2         
+https://zeus728177.cfd/m/AbRrzZIB2isA9iNhXX-elOiqBsZTud-BrzGAZoaw7llX4l4nzNKb-NRxZw
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="Atomspor",Beinsports 2 HD
+https://css.d6e3eds5e065t5.help//b2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="Canlıkolik",Beinsports 2 HD
+https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/2.m3u8
 #EXTINF:-0 tvg-logo="https://saraydorf.de/spor/img/tv.png" group-title="Maç Saati Açık",Bein Sports 2         
 https://css.d6e3eds5e065t5.help//bein2/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-logo="https://saraydorf.de/spor/img/tv.png" group-title="Maç Saati Açık",Bein Sports 2     
 https://zeus728177.cfd/m/AbRrzZIB2isA9iNhXX-elOiqBsZTud-BrzGAZoaw7llX4l4nzNKb-NRxZw
+#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="Streamgo TV",Beinsports 2 HD
+https://cdn.codenet.work:443/streamgo/stremgo123/4865.m3u8
+
+
 
 #EXTINF:-0 group-title="Spor Kanalları" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png",Bein Sports Sports 3
 https://css.d6e3eds5e065t5.help//bein3/tracks-v1a1/mono.m3u8
