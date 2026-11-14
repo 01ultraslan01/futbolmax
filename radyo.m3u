@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/2/45/45/images/2025/07/28/show-radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg" group-title="RADYO", Show Radyo
+https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
+#EXTINF:-1 tvg-logo="https://i.showradyo.com.tr/2/45/45/images/2025/07/30/show-slow-kare-1080x1080-HnWvw8Qi.jpg" group-title="RADYO", Show Slow
+https://listen.radyotvonline.net/hls/play/show_slow.m3u8
+#EXTINF:-1 tvg-logo="https://image.radyod.com/i/radyod/75/0x0/66f679836f1db4bba90810af.jpg" group-title="RADYO", RADYO D 
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://com.com.tr/assets/radyo/power-pop.webp" group-title="RADYO", Power POP 
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
