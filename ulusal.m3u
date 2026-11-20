@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="Spor KANALLARI",Beinsports 1 HD
 https://css.d6e3eds5e065t5.help//hls/b1.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="Spor KANALLARI",Beinsports 1 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4864.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="Spor KANALLARI",Beinsports 1 HD
 https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/1.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports1.png" group-title="Spor KANALLARI",Beinsports 1 HD
 https://css.d6e3eds5e065t5.help//b1/tracks-v1a1/mono.m3u8
@@ -11,11 +9,6 @@ https://css.d6e3eds5e065t5.help//b1/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="Spor KANALLARI",Beinsports 2 HD
-https://css.d6e3eds5e065t5.help//hls/b2.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="Spor KANALLARI",Beinsports 2 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4865.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="Spor KANALLARI",Beinsports 2 HD
 https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/2.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports2.png" group-title="Spor KANALLARI",Beinsports 2 HD
@@ -23,7 +16,7 @@ https://css.d6e3eds5e065t5.help//b2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports3.png" group-title="Spor KANALLARI",Beinsports 3 HD
-https://css.d6e3eds5e065t5.help//hls/b3.m3u8
+https://css.d6e3eds5e065t5.help//b3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports3.png" group-title="Spor KANALLARI",Beinsports 3 HD
 https://cdn.codenet.work:443/streamgo/stremgo123/4866.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports3.png" group-title="Spor KANALLARI",Beinsports 3 HD
@@ -33,16 +26,13 @@ https://css.d6e3eds5e065t5.help//b3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports4.png" group-title="Spor KANALLARI",Beinsports 4 HD
-https://css.d6e3eds5e065t5.help//hls/b4.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports4.png" group-title="Spor KANALLARI",Beinsports 4 HD
 https://cdn.codenet.work:443/streamgo/stremgo123/4867.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports4.png" group-title="Spor KANALLARI",Beinsports 4 HD
 https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/4.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports4.png" group-title="Spor KANALLARI",Beinsports 4 HD
 https://css.d6e3eds5e065t5.help//b4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports5.png" group-title="Spor KANALLARI",Beinsports 5 HD
-https://css.d6e3eds5e065t5.help//hls/b5.m3u8
+
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports5.png" group-title="Spor KANALLARI",Beinsports 5 HD
 https://cdn.codenet.work:443/streamgo/stremgo123/4868.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsports5.png" group-title="Spor KANALLARI",Beinsports 5 HD
@@ -55,80 +45,6 @@ https://css.d6e3eds5e065t5.help//b5/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsportshaber.png" group-title="Spor KANALLARI",Beinsports Haber HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4869.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsportsmax1.png" group-title="Spor KANALLARI",Beinsports  Max 1 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4870.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsportsmax2.png" group-title="Spor KANALLARI",Beinsports  Max 2 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4871.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/s_sport.png" group-title="Spor KANALLARI",S Sport 1 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4879.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/s_sport2.png" group-title="Spor KANALLARI",S Sport 2 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4880.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/sporsmart.png" group-title="Spor KANALLARI",Spor Smart 1 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4909.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/sporsmart2.png" group-title="Spor KANALLARI",Spor Smart 2 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4881.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor.png" group-title="Spor KANALLARI",Tivibu spor HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4882.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor1.png" group-title="Spor KANALLARI",Tivibu spor 1 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4892.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor2.png" group-title="Spor KANALLARI",Tivibu Spor 2 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4883.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor3.png" group-title="Spor KANALLARI",Tivibu Spor 3 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4884.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tivibuspor4.png" group-title="Spor KANALLARI",Tivibu Spor 4 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4885.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/trt1.png" group-title="Spor KANALLARI",TRT1 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4904.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/trtspor.png" group-title="Spor KANALLARI",TRT Spor HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4874.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/trtspor-yildiz.png" group-title="Spor KANALLARI",TRT Spor Yildiz HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4875.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/aspor.png" group-title="Spor KANALLARI",A-Spor HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4876.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/htspor.png" group-title="Spor KANALLARI",HT-Spor HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4877.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/eurosport1.png" group-title="Spor KANALLARI",Eurosport 1 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4872.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/eurosport2.png" group-title="Spor KANALLARI",Eurosport 2 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4873.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tabii.png" group-title="Spor KANALLARI",Tabii Spor HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4886.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tabii.png" group-title="Spor KANALLARI",Tabii Spor 1 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4925.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tabii.png" group-title="Spor KANALLARI",Tabii Spor 2 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4887.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tabii.png" group-title="Spor KANALLARI",Tabii Spor 3 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4888.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tabii.png" group-title="Spor KANALLARI",Tabii Spor 4 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4889.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tabii.png" group-title="Spor KANALLARI",Tabii Spor 5 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4890.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tabii.png" group-title="Spor KANALLARI",Tabii Spor 6 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4891.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/fbtv.png" group-title="Spor KANALLARI",FB TV HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4893.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/atv.png" group-title="Spor KANALLARI",ATV HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4906.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tv85.png" group-title="Spor KANALLARI",TV8-5 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4908.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tv8.png" group-title="Spor KANALLARI",TV8 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4910.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/tv100.png" group-title="Spor KANALLARI",TV100 HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4929.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/taytv.png" group-title="Spor KANALLARI",Taytv HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4912.m3u8
-#EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/taytv.png" group-title="Spor KANALLARI",Taytv HD
-https://cdn.codenet.work:443/streamgo/stremgo123/4916.m3u8
 
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/beinsportshaber.png" group-title="Spor KANALLARI",Beinsports Haber HD
 https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/6.m3u8
@@ -215,12 +131,18 @@ https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/46.m3u8
 #EXTINF:-1 tvg-logo="https://saraydorf.de/spor/img/logo/exxen.png" group-title="Spor KANALLARI",Exxen Mac zamani HD
 https://proxy.codenet.lol/live/A9A74EDC2AC55530B4D98B43C56B7908/47.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://im.showtv.com.tr/5/7765/kemal-sunal-500x500.png" group-title="Sinema KANALLARI",Kemal SUNAL TV
+https://www.youtube.com/channel/UCoIUysIrvGxoDw-GkdOGjRw/live
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1019523153138274304/suPhiADc_400x400.jpg" group-title="Sinema KANALLARI",YeşilÇAM TV
+https://www.youtube.com/channel/UCulg-mlXf314L1pemPqCVng/live
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1019523153138274304/suPhiADc_400x400.jpg" group-title="Sinema KANALLARI",YeşilÇAM TV2
+https://www.youtube.com/channel/UC0LzwfdVoZSQDtauDjJS8_A/live
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1019523153138274304/suPhiADc_400x400.jpg" group-title="Sinema KANALLARI",YeşilÇAM TV3
+https://www.youtube.com/channel/UCV6SY-a2gfj9AcTT-yJ6oEA/live
+#EXTINF:-1 tvg-logo="https://taffpics.com/wp-content/uploads/2019/11/taff_logo_5.png" group-title="Sinema KANALLARI",TAFF PİCTURES TÜRK FİLMLERİ
+https://www.youtube.com/channel/UCEz0vUNtEPYyxhM-xKhQ4EQ/live
+#EXTINF:-1 tvg-logo="https://canlitv.com/kanal/logo/13448.jpg" group-title="Sinema KANALLARI",ŞABAN TV
+https://www.youtube.com/channel/UCoIUysIrvGxoDw-GkdOGjRw/live
 
 
 
