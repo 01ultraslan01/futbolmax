@@ -143,5 +143,5 @@ https://www.youtube.com/channel/UCV6SY-a2gfj9AcTT-yJ6oEA/live
 https://www.youtube.com/channel/UCEz0vUNtEPYyxhM-xKhQ4EQ/live
 #EXTINF:-1 tvg-logo="https://canlitv.com/kanal/logo/13448.jpg" group-title="Sinema KANALLARI",ŞABAN TV
 https://www.youtube.com/channel/UCoIUysIrvGxoDw-GkdOGjRw/live
-
-
+#EXTINF:-1 tvg-logo="https://canlitv.com/kanal/logo/13448.jpg" group-title="Sinema KANALLARI",ŞABAN TV2
+https://canaktv.sabantv.net:3996/stream/play.m3u8
